@@ -1,0 +1,307 @@
+{
+  "main": {
+    "name": "Imdadul Ahmed",
+    "occupation": "full stack web developer and part time freelancer. ",
+    "description": "I make web apps with Javascript and try to make an impact with my works.",
+    "image": "pp for ai.jpg",
+    "bio": "Passionate Software Engineer with a background in Nuclear Engineering (Bachelors) and Business Administration (Masters), backed by a bootcamp certification. Eager to bring my unique blend of technical skills and strategic thinking to a dynamic role. Committed to driving innovation and efficiency, I aim to contribute meaningfully to projects and embrace the challenges of the ever-evolving software development landscape.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ahmedimdad1593@gmail.com",
+    "phone": "+8801611321593",
+    "address": {
+      "street": "357/1 East Nakhalpara",
+      "city": "Dhaka",
+      "state": "BD",
+      "zip": "Dhaka - 1215"
+    },
+    "website": "https://ahmedimdad93.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1_IXevhEB3jwBzlxtv7exDOiZMph97IZ7/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ahmed.imdad.5/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/imdadul-ahmed-b8015b167/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ahmedimdad93/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imdadulahmed1593",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Dhaka",
+        "degree": "Bachelors in Nuclear Engineering",
+        "graduated": "June 2021",
+        "description": ""
+      },
+      {
+        "school": "University of Dhaka",
+        "degree": "Masters in Business Administration",
+        "graduated": "December 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "ValkyrieTM",
+        "title": "Junior Software Engineer",
+        "years": "August 2021 - November 2021",
+        "description": "Developing the frontend of a ed-tech platform titled 'studycentral', Integrating APIs in the frontend and collaborating with backend developers."
+      },
+      {
+        "company": "Fiverr",
+        "title": "Part time freelancer",
+        "years": "April 2021 - August 2021",
+        "description": "Teaching JS and building projects."
+      },
+      {
+        "company": "Independent Job",
+        "title": "Teacher",
+        "years": "Nov 2015 - April 2020",
+        "description": "Tutoring students Mathematics and Physics"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Discordia",
+        "category": "Discord Clone built with NextJS",
+        "image": "Discordia.jpeg",
+        "url": "https://pc-community-production.up.railway.app/",
+        "github": "https://github.com/imdadulahmed1593/pc-community"
+      },
+      {
+        "title": "Amazon Clone with Next",
+        "category": "Amazon Clone built with NextJS",
+        "image": "amazon-clone.jpg",
+        "url": "https://amz-clone-next.vercel.app/",
+        "github": "https://github.com/imdadulahmed1593/amz-clone-next"
+      },
+      {
+        "title": "Airbnb Clone with Next",
+        "category": "Airbnb Clone built with NextJS",
+        "image": "airbnb-clone-next.jpg",
+        "url": "https://airbnb-clone-next.vercel.app/",
+        "github": "https://github.com/imdadulahmed1593/airbnb-clone-next"
+      },
+      {
+        "title": "Disney Plus clone with ReactJS",
+        "category": "Disney Plus Clone built with ReactJS ",
+        "image": "disneyPlus.jpg",
+        "url": "https://disney-plus-clone-reactjs.web.app/",
+        "github": "https://github.com/imdadulahmed1593/movie-plus-react-js"
+      },
+      {
+        "title": "Creative Agency Web App built with MERN stack",
+        "category": "A web app developed for an agency directed at creative works. ",
+        "image": "creative-agency.jpg",
+        "url": "https://creative-agency-frontend-7fa96.web.app/",
+        "github": "https://github.com/imdadulahmed1593/creative-agency-frontend"
+      },
+      {
+        "title": "Apartment Hunt Web App built with MERN stack",
+        "category": "A web app developed for an agency which rents apartment and lets the client choose an apartment per their likings.",
+        "image": "apartment-hunt.jpg",
+        "url": "https://apartment-hunt-2bcc4.web.app/",
+        "github": "https://github.com/JahirulKaiyoum/Apertment-hunt"
+      },
+      {
+        "title": "Volunteer Network Web App built with MERN stack",
+        "category": "A web app developed for an agency which accepts volunteering requests and supports them",
+        "image": "volunteer_network.jpg",
+        "url": "https://volunteer-network-react.web.app/",
+        "github": "https://github.com/imdadulahmed1593/volunteer-network-frontend"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-react-a8b72.web.app/",
+        "github": "https://github.com/imdadulahmed1593/facebook-clone-react"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://airbnb-clone-react-de6ab.web.app",
+        "github": "https://github.com/imdadulahmed1593/airbnb-clone-react"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-clone2-cc507.web.app/",
+        "github": "https://github.com/imdadulahmed1593/netflix-web-clone"
+      },
+      {
+        "title": "Twitter Clone with React",
+        "category": "Twitter Clone built with ReactJS",
+        "image": "twitter-clone.png",
+        "url": "https://twitter-clone-react-ef901.web.app/",
+        "github": "https://github.com/imdadulahmed1593/twitter-clone-react"
+      },
+      {
+        "title": "Covid19 Tracker with React",
+        "category": "Covid19 Tracker built with ReactJS",
+        "image": "covid19-tracker.jpg",
+        "url": "https://covid-19-tracker-a0fe1.firebaseapp.com/",
+        "github": "https://github.com/imdadulahmed1593/covid-19-Tracker-reactJs"
+      },
+      {
+        "title": "Spotify Clone with React",
+        "category": "Spotify Clone built with ReactJS",
+        "image": "spotify-clone.jpg",
+        "url": "https://spotify-clone-react-742b5.web.app/",
+        "github": "https://github.com/imdadulahmed1593/spotify-clone-react"
+      },
+
+      {
+        "title": "MERN Stack Whatsapp Clone",
+        "category": "Whatsapp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern-clone.jpg",
+        "url": "https://whatsapp-mern-2735f.web.app/",
+        "github": "https://github.com/imdadulahmed1593/whatsapp-mern-"
+      },
+      {
+        "title": "Hulu Clone with React",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "hulu-clone.jpg",
+        "url": "https://hulu-clone-react-9ae4e.web.app/",
+        "github": "https://github.com/imdadulahmed1593/hulu-clone-react"
+      },
+      {
+        "title": "Youtube Clone with React",
+        "category": "Youtube Clone built with ReactJS",
+        "image": "youtube-clone.jpg",
+        "url": "https://clone-react-ecf62.web.app/",
+        "github": "https://github.com/imdadulahmed1593/youtube-clone-react"
+      },
+      {
+        "title": "MERN Stack Tinder Clone",
+        "category": "Tinder Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tinder-clone.jpg",
+        "url": "https://tinder-clone-mern-cb5d4.web.app/",
+        "github": "https://github.com/imdadulahmed1593/tinder-clone-mern"
+      },
+      {
+        "title": "Messenger Clone with React and firebase",
+        "category": "Messenger Clone built with ReactJS",
+        "image": "messenger-clone.jpg",
+        "url": "https://messenger-clone-react-e8df9.web.app/",
+        "github": "https://github.com/imdadulahmed1593/messenger-clone-react"
+      },
+      {
+        "title": "Instagram Clone with React and firebase",
+        "category": "Instagram Clone built with ReactJS",
+        "image": "Instagram-clone.jpg",
+        "url": "https://instagram-clone-react-c10d0.web.app/",
+        "github": "https://github.com/imdadulahmed1593/insta-clone-react"
+      },
+      {
+        "title": "Travel Guru Web App with React and firebase",
+        "category": "Travel Guru built with ReactJS",
+        "image": "Travel-guru-clone.jpg",
+        "url": "https://travel-guru-react.web.app/",
+        "github": "https://github.com/imdadulahmed1593/traveller-website-react"
+      },
+      {
+        "title": "Slack Clone with React and firebase",
+        "category": "Slack Clone built with ReactJS",
+        "image": "slack-clone.jpg",
+        "url": "https://slack-clone-react-b09cf.web.app/",
+        "github": "https://github.com/imdadulahmed1593/slack-clone-react"
+      },
+      {
+        "title": "ToDoApp built with NodeJS",
+        "category": "ToDoApp built with NodeJS",
+        "image": "todoapp-node.jpg",
+        "url": "https://nameless-crag-17412.herokuapp.com/",
+        "github": "https://github.com/imdadulahmed1593/todo-app-using-node"
+      },
+      {
+        "title": "Discord Clone with React and Redux",
+        "category": "Discord Clone with React and Redux",
+        "image": "discord_clone.jpg",
+        "url": "https://discord-clone-react-ca7f9.web.app/",
+        "github": "https://github.com/imdadulahmed1593/discord-clone-react"
+      },
+
+      {
+        "title": "Book Listing App with React and GraphQL",
+        "category": "A fancy book listing app built using GrapQL",
+        "image": "graphql-app.jpg",
+        "url": "https://imdads-book-list.web.app/",
+        "github": "https://github.com/imdadulahmed1593/graphql-demo-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "This guys is committed to what he is doing and has a lot of potential. He learns very quickly and is highly motivated to grow as a developer.",
+        "user": "Rahad Hasan"
+      },
+      {
+        "text": "I gave him a project with a very short deadline and he was able to do it withing that stipulated time. This guy is very serious about his work. I would love to work with him again.",
+        "user": "Faiz Ahmed"
+      }
+    ]
+  }
+}
